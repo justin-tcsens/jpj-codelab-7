@@ -2,6 +2,10 @@
 Vehicle service endpoint.
 
 ## Tasks
+- Clone project from https://github.com/justin-tcsens/vehicle-management, to your local working directory.
+- With reference to the vehicle endpoint implementation, complete the task by implementing /summon endpoint.
+- Tasks including but not limited to following:-
+
 **Repository**
 - Create new SummonRepository.java class under /src/main/java/my/com/tcsens/vehiclemanagement/repository package.
 - Annotate class with @Repository spring boot annotation.
